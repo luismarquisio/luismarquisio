@@ -1,4 +1,4 @@
-## Eai! Eu sou o Luis Marquisio
+## Eai, seja bem-vindo(a)! Eu sou o Luis Marquisio
 
 <div align="center">
   <a href="https://github.com/luismarquisio">
